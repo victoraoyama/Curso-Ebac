@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: rgba(128, 128, 128, 0.712);
+}
+
+body{
+    background-color: rgb(31, 31, 31);
+    color: white;
+    margin: 0 auto;
+}
+
+img{
+    margin: 0 auto;
+    border-radius: 8px;
+
+}
+
+article{
+    padding: 16px;
+    background-color: black;
+    width: 90%;
+    border-radius: 6px;
+}
+
